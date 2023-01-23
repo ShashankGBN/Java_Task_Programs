@@ -25,7 +25,7 @@ class Circle
 public static void main(String [] args)
 {
 Scanner scan = new Scanner(System.in);
-System.out.println("radius of circle=");
+System.out.println("Radius of the Circle=");
 double r = scan.nextDouble();
 System.out.println(area(r));
 }
